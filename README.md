@@ -1,4 +1,4 @@
-# api_with_solid
+# restful api crud with clean architecture
 
 A new Flutter project.
 
